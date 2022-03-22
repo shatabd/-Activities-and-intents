@@ -57,7 +57,7 @@ In the HelloToast app homework, how do you add the current value of the count to
 
 Ans - As an Intent extra
 
-### Question 4
+### Question 5
 In the HelloToast app homework, how do you display the current count in the second "Hello" Activity?
 
 Ans - All of the above.
