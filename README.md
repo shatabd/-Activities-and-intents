@@ -29,11 +29,11 @@ Activities-and-intents challenge
 
 Toast button so that it launches a new Activity to display the word "Hello!" and the current count
 
-<img src="screenshots/TwoActivities%20Homework.png" width="250" height="450">
+<img src="screenshots/sayhellos.gif" width="250" height="450">
 
 Activities-and-intents homework
 
-<img src="screenshots/twoActivities%20homework.gif" width="250" height="450">
+<img src="screenshots/sayhello.png" width="250" height="450">
 
 ## Answer these questions
 
