@@ -19,11 +19,12 @@ tap Reply, and the reply is displayed on the main activity.
 An app contain three Button elements labeled Text One, Text Two, and Text Three. When any of these Button elements are clicked, launch a second Activity.
 That second Activity should contain a ScrollView that displays one of three text passages 
 
-<img src="screenshots/twoActivities%20challenge.png" width="200" height="450">
+<img src="screenshots/twoActivities%20challenge.gif" width="250" height="450">
+
 
 Activities-and-intents challenge
 
-<img src="screenshots/twoActivities%20challenge.gif" width="250" height="450">
+<img src="screenshots/twoActivities%20challenge.png" width="200" height="450">
 
 ## Homework
 
